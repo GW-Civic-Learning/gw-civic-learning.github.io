@@ -62,3 +62,9 @@ Answer: The site only updates when changes are pushed/merged to the `main` branc
 2. The deployment process failed. What should I do?
 
 Answer: Open the failed run in the **Actions** tab, review the error logs, and fix the issue (commonly build errors, missing files, or dependency problems). After fixing, push a new commit to `main` to trigger a fresh deployment. If it still fails, compare with the last successful run to spot what changed.
+
+
+
+### Release Information
+
+[![DOI](https://zenodo.org/badge/1025700444.svg)](https://doi.org/10.5281/zenodo.19682771)
